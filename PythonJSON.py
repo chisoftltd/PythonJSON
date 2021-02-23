@@ -69,7 +69,7 @@ print(json.dumps(x1, indent=4, separators=(", ", " = ")))
 print()
 print(json.dumps({"name": "John", "age": 30}, indent=3))
 print()
-print(json.dumps({"name": "John", "age": 30}, indent=3, separators=(". ", " = ")))
+print(jso n.dumps({"name": "John", "age": 30}, indent=3, separators=(". ", " = ")))
 print()
 
 # Order the Result
